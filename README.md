@@ -1,3 +1,7 @@
+div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div
+
 # Leitor-de-Planilha
 Guia de Teste para a Aplicação de Análise de Planilhas Excel
 Este guia fornecerá instruções passo a passo para testar com sucesso a aplicação de análise de planilhas Excel. Esta aplicação permite carregar arquivos Excel, processá-los e exibir os resultados em uma interface web.
