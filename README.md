@@ -1,8 +1,5 @@
-div align="center"
-img src="
 ![img1](https://github.com/ResoluteJax/Leitor-de-Planilha/assets/70527896/7a6ea613-1164-4e0d-b0fa-35453071eb0d)
 ![img2](https://github.com/ResoluteJax/Leitor-de-Planilha/assets/70527896/3bc269cc-e033-45f4-bcf9-09a1c897254a)
-" width="200px"
 
 # Leitor-de-Planilha
 Guia de Teste para a Aplicação de Análise de Planilhas Excel
