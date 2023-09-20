@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados</title>
+</head>
+<body>
+    <h1>Resultados</h1>
+    <div class="container">
+        {% if table is defined %}
+            <!-- Tabela será exibida aqui se estiver definida -->
+            {{ table | safe }}
+        {% else %}
+            <p>Nenhum dado para exibir.</p>
+        {% endif %}
+    </div>
+    <form method="GET" action="{{ url_for('limpar_resultados') }}" class="mt-4">
+        <button type="submit" class="btn btn-danger">Limpar Resultados e Voltar</button>
+    </form>
+</body>
+</html>
