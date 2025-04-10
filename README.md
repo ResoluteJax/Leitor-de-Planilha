@@ -51,3 +51,7 @@ Para encerrar a aplicação, volte ao terminal onde a aplicação está sendo ex
 
 Conclusão
 Você concluiu com sucesso o teste da aplicação de análise de planilhas Excel. Agora você pode usar essa aplicação para carregar, processar e analisar planilhas Excel de acordo com suas necessidades. Certifique-se de ter um arquivo Excel válido e com as colunas corretas para obter resultados precisos. Se encontrar algum problema, verifique as mensagens de erro e assegure-se de que o arquivo Excel atenda aos requisitos esperados pela aplicação.
+
+![268933907-7a6ea613-1164-4e0d-b0fa-35453071eb0d](https://github.com/user-attachments/assets/4a0ad178-b921-4027-9ca1-622b48c538f4)
+![268933896-3bc269cc-e033-45f4-bcf9-09a1c897254a](https://github.com/user-attachments/assets/73b7033f-c96e-4c0d-b197-6af263d6da1d)
+
